@@ -13,4 +13,4 @@ C++14, OOP, STL, Smart Pointers, File I/O, Exception Handling
 
 
 
-## 📄 [View Documentation (Doxygen)](https://mrmpasa.github.io/terminal_based_spreadsheet_program)
+## 📄 [View Documentation (Doxygen)](https://m-pasa.github.io/terminal_based_spreadsheet_program)
