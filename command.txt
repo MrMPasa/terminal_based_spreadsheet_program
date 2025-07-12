@@ -1,0 +1,3 @@
+g++ -std=c++14 Main.cpp DoubleValueCell.cpp FormulaCell.cpp IntValueCell.cpp StringValueCell.cpp AnsiTerminal.cpp fileIO.cpp Spreadsheet.cpp FormulaParser.cpp -o main
+
+./main
